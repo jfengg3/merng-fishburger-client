@@ -1,0 +1,17 @@
+.page-title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+.form-container {
+  width: 400px;
+  padding-top: 20px;
+  margin: auto;
+}
+
+.ui.orange.button:focus,
+.ui.orange.buttons .button:focus {
+  background-color: #f2711c;
+}
